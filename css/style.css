@@ -74,8 +74,29 @@
 
 
 
+
+/*Main Styles*/
+
 .first_section{
   background-color: #d8493d;
   padding-top:60px;
   height:450px;
+}
+
+.second_section{
+  text-align: center;
+  background-color: #76bf81;
+  padding-top:60px;
+  padding-bottom:40px;
+}
+
+.second_section p {
+max-width: 700px;
+margin-bottom:0px;
+font-size:24px;
+line-height: 30px;
+font-family: 'Futura PT';
+font-weight: 900;
+font-style: normal;
+color: #fff;
 }
