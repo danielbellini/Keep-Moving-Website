@@ -51,6 +51,29 @@
 }
 
 
+/*Font styles*/
+
+h2{
+  font-size:21px;
+  font-family: 'Futura PT';
+  font-weight: 900;
+  font-style: normal;
+  color: #d8493d;
+}
+
+p {
+  font-size:16px;
+  line-height: 20px;
+  font-family: 'Futura PT';
+  font-weight: Light;
+  font-style: normal;
+  color: #000;
+
+}
+
+
+
+
 /*Navbar Styles*/
 .navbar-bg {
   background-color: #d8493d!important;
