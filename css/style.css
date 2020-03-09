@@ -49,3 +49,25 @@
     font-weight: 300;
     font-style: normal;
 }
+
+
+/*Navbar Styles*/
+.navbar-bg {
+  background-color: #d8493d!important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  font-size:27px;
+  font-family: 'Futura PT';
+  font-weight: 500;
+  font-style: normal;
+  color: #FFF;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+  font-size:27px;
+  font-family: 'Futura PT';
+  font-weight: 500;
+  font-style: normal;
+  color: #000;
+}
