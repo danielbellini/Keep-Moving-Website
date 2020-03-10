@@ -111,7 +111,6 @@ p {
   font-family: 'Futura PT';
   font-weight: 500;
   font-style: normal;
-
 }
 
 
@@ -141,6 +140,10 @@ p {
 }
 #nav-link-contacts:hover {
   color: #fff;
+}
+
+.navbar-light .navbar-toggler{
+  border: none;
 }
 
 
