@@ -66,7 +66,7 @@ h2{
   font-family: 'Futura PT';
   font-weight: 900;
   font-style: normal;
-  color: #d8493d;
+  color: #f74a42;
 }
 
 .sixth_section h2{
@@ -103,7 +103,7 @@ p {
 
 /*Navbar Styles*/
 .navbar-bg {
-  background-color: #d8493d!important;
+  background-color: #f74a42!important;
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -152,7 +152,7 @@ p {
 /*Main Styles*/
 
 .first_section{
-  background-color: #d8493d;
+  background-color: #f74a42;
   padding-top:60px;
   height:450px;
 }
@@ -238,6 +238,6 @@ color: #fff;
 }
 
 .footer a:hover{
-color: #d9493e;
+color: #f74a42;
 text-decoration: none;
 }
