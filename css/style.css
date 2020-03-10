@@ -53,6 +53,14 @@
 
 /*Font styles*/
 
+h1{
+  font-size:57px;
+  font-family: 'Futura PT';
+  font-weight: 500;
+  font-style: normal;
+  color: #000;
+}
+
 h2{
   font-size:21px;
   font-family: 'Futura PT';
@@ -125,5 +133,18 @@ color: #fff;
 }
 
 .third_section{
+background-color: #FFF;
 padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.serviceimg-container{
+  height:300px;
+  margin-bottom: 20px;
+}
+
+.fourth_section{
+background-color: #212121;
+padding-top: 50px;
+padding-bottom: 100px;
 }
