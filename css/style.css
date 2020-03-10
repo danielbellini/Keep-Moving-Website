@@ -69,6 +69,25 @@ h2{
   color: #d8493d;
 }
 
+.sixth_section h2{
+  color: #fff;
+  margin-bottom:20px;
+}
+
+h3{
+  font-size:17px;
+  font-family: 'Futura PT';
+  font-weight: 900;
+  font-style: normal;
+  color: #fff;
+}
+
+.sixth_section h3{
+  color: #f74a42;
+  margin-bottom:0px;
+}
+
+
 p {
   font-size:16px;
   line-height: 20px;
@@ -147,4 +166,10 @@ padding-bottom: 50px;
 background-color: #212121;
 padding-top: 50px;
 padding-bottom: 100px;
+}
+
+.sixth_section{
+background-color: #da91bb;
+padding-top: 35px;
+padding-bottom: 35px;
 }
