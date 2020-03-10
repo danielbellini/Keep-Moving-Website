@@ -111,15 +111,36 @@ p {
   font-family: 'Futura PT';
   font-weight: 500;
   font-style: normal;
-  color: #FFF;
+
 }
 
-.navbar-light .navbar-nav .nav-link:hover{
-  font-size:27px;
-  font-family: 'Futura PT';
-  font-weight: 500;
-  font-style: normal;
+
+#nav-link-services {
+  color: #fff;
+}
+#nav-link-services:hover {
   color: #000;
+}
+
+#nav-link-stories {
+  color: #77c081;
+}
+#nav-link-stories:hover {
+  color: #000;
+}
+
+#nav-link-clients {
+  color: #88d3e4;
+}
+#nav-link-clients:hover {
+  color: #000;
+}
+
+#nav-link-contacts {
+  color: #000;
+}
+#nav-link-contacts:hover {
+  color: #fff;
 }
 
 
