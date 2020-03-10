@@ -196,3 +196,24 @@ text-decoration: none;
 color: #d9493e;
 text-decoration: none;
 }
+
+.footer {
+background-color: #221e1e;
+font-size:11px;
+line-height: 30px;
+font-family: 'Futura PT';
+font-weight: normal;
+font-style: normal;
+color: #fff;
+padding-top: 100px;
+padding-bottom: 200px;
+}
+
+.footer a{
+color: #fff;
+}
+
+.footer a:hover{
+color: #d9493e;
+text-decoration: none;
+}
