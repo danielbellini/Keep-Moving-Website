@@ -173,3 +173,26 @@ background-color: #da91bb;
 padding-top: 35px;
 padding-bottom: 35px;
 }
+
+.seventh_section{
+background-color: #9ed1e2;
+font-size:25px;
+line-height: 30px;
+font-family: 'Futura PT';
+font-weight: normal;
+font-style: normal;
+color: #fff;
+padding-top: 60px;
+padding-bottom: 30px;
+}
+
+
+.seventh_section a{
+color: #fff;
+text-decoration: none;
+}
+
+.seventh_section a:hover{
+color: #d9493e;
+text-decoration: none;
+}
