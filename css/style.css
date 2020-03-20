@@ -10,7 +10,7 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: local('Futura PT'), url('fonts/FuturaPT-Medium.woff2') format('woff2'), url('fonts/FuturaPT-Medium.woff') format('woff');
+  src: url('fonts/futurapt-medium.woff2') format('woff2'), url('fonts/futurapt-medium.woff') format('woff');
 }
 
 
@@ -23,7 +23,7 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: local('Futura PT'), url('fonts/FuturaPT-Heavy.woff2') format('woff2'), url('fonts/FuturaPT-Heavy.woff') format('woff');
+  src: url('fonts/futurapt-heavy.woff2') format('woff2'), url('fonts/futurapt-heavy.woff') format('woff');
 }
 
 
@@ -35,7 +35,7 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: local('Futura PT'), url('fonts/FuturaPT-Book.woff2') format('woff2'), url('fonts/FuturaPT-Book.woff') format('woff');
+  src: url('fonts/futurapt-book.woff2') format('woff2'), url('fonts/futurapt-book.woff') format('woff');
 }
 
 
@@ -47,7 +47,7 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: local('Futura PT'), url('fonts/FuturaPT-Light.woff2') format('woff2'), url('fonts/FuturaPT-Light.woff') format('woff');
+  src: url('fonts/futurapt-light.woff2') format('woff2'), url('fonts/futurapt-light.woff') format('woff');
 }
 
 
