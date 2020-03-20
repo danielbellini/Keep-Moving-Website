@@ -10,7 +10,8 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: url('../fonts/futurapt-medium.woff2') format('woff2'), url('../fonts/futurapt-medium.woff') format('woff');
+  src: url('../fonts/futurapt-medium.woff2') format('woff2'),
+  url('../fonts/futurapt-medium.woff') format('font-woff');
 }
 
 
@@ -23,7 +24,8 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: url('../fonts/futurapt-heavy.woff2') format('woff2'), url('../fonts/futurapt-heavy.woff') format('woff');
+  src: url('../fonts/futurapt-heavy.woff2') format('woff2'),
+  url('../fonts/futurapt-heavy.woff') format('font-woff');
 }
 
 
@@ -35,7 +37,8 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: url('../fonts/futurapt-book.woff2') format('woff2'), url('../fonts/futurapt-book.woff') format('woff');
+  src: url('../fonts/futurapt-book.woff2') format('woff2'),
+  url('../fonts/futurapt-book.woff') format('font-woff');
 }
 
 
@@ -47,7 +50,8 @@
   /* Read next point */
   unicode-range: U+000-5FF;
   /* Download only latin glyphs */
-  src: url('../fonts/futurapt-light.woff2') format('woff2'), url('../fonts/futurapt-light.woff') format('woff');
+  src: url('../fonts/futurapt-light.woff2') format('woff2'),
+  url('../fonts/futurapt-light.woff') format('font-woff');
 }
 
 
